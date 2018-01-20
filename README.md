@@ -6,42 +6,42 @@ Using the application, users can browse for a movie, TV show, or actor and have 
 ## Results returned on search:
 
 **Movies**
-* Title
-* Tagline
-* Grenres
-* Release Date
-* Runtime
-* Rating
-* Budget
-* Revenue
-* IMDB Page
-* Noteable Actors
-* Plot Summary
-* Similar Films
+  * Title
+  * Tagline
+  * Grenres
+  * Release Date
+  * Runtime
+  * Rating
+  * Budget
+  * Revenue
+  * IMDB Page
+  * Noteable Actors
+  * Plot Summary
+  * Similar Films
 
 **TV Shows**
-* Name
-* Release Date
-* Genres
-* Seasons
-* Episodes
-* Average Runtime
-* Status
-* Show Type
-* Homepage
-* Noteable Actors
-* Overview
-* Similar Shows
+  * Name
+  * Release Date
+  * Genres
+  * Seasons
+  * Episodes
+  * Average Runtime
+  * Status
+  * Show Type
+  * Homepage
+  * Noteable Actors
+  * Overview
+  * Similar Shows
 
 **Actors**
-* Name
-* Gender
-* Biography
-* Date of Birth
-* Place of Birth
-* Date of Death
-* * IMDB Page
-* Popular Movies starred in
-* Popular TV Shows starred in
-* Facebook, Twitter, and Instagram IDs
+  * Name
+  * Gender
+  * Biography
+  * Date of Birth
+  * Place of Birth
+  * Date of Death
+  * * IMDB Page
+  * Popular Movies starred in
+  * Popular TV Shows starred in
+  * Facebook, Twitter, and Instagram IDs
 
