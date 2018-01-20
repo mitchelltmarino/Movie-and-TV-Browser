@@ -1,6 +1,9 @@
 # Movie-and-TV-Browser
 
 Hello, and thank you for checking out my Movie and TV Browser application!
+Using the application, users can browse for a movie, TV show, or actor and have relevant information on their search displayed on the application's GUI, along with a photo!
+
+##Results returned on search:
 
 **Movies**
 * Title
