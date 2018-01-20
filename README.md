@@ -4,7 +4,9 @@ Hello, and thank you for checking out my Movie and TV Browser application! Users
 
 All data is pulled from TMDb's database using their online API. Their website can be found here: https://www.themoviedb.org
 
-![alt text](https://github.com/mitchelltmarino/Movie-and-TV-Browser/blob/master/Assets/Help%20Sample.PNG?raw=true)
+## Sample movie search (La La Land):
+
+![alt text](https://github.com/mitchelltmarino/Movie-and-TV-Browser/blob/master/Assets/La%20La%20Land%20Sample.PNG?raw=true)
 
 ## Results returned on search (Ordered by relevance):
 
