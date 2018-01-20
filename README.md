@@ -40,7 +40,7 @@ Using the application, users can browse for a movie, TV show, or actor and have 
    * Date of Birth
    * Place of Birth
    * Date of Death
-   * * IMDB Page
+   * IMDB Page
    * Popular Movies starred in
    * Popular TV Shows starred in
    * Facebook, Twitter, and Instagram IDs
