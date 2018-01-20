@@ -4,7 +4,7 @@ Hello, and thank you for checking out my Movie and TV Browser application! Users
 
 All data is pulled from TMDb's database using their online API. Their website can be found here: https://www.themoviedb.org
 
-[alt text](./Assets/Help Sample.PNG)
+![alt text](./Assets/Help Sample.PNG)
 
 ## Results returned on search (Ordered by relevance):
 
