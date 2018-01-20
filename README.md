@@ -44,4 +44,6 @@ Using the application, users can browse for a movie, TV show, or actor and have 
    * Popular Movies starred in
    * Popular TV Shows starred in
    * Facebook, Twitter, and Instagram IDs
+  
+
 
