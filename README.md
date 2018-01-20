@@ -50,5 +50,6 @@ All data is pulled from TMDb's database using their online API. Their website ca
    * Popular TV Shows starred in
    * Facebook, Twitter, and Instagram IDs
   
+## Help Page (and about Mitchell!):
 
-
+![alt text](https://github.com/mitchelltmarino/Movie-and-TV-Browser/blob/master/Assets/Help%20Sample.PNG?raw=true)
