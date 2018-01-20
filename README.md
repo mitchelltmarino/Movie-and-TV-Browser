@@ -3,7 +3,7 @@
 Hello, and thank you for checking out my Movie and TV Browser application!
 
 **Movies**
-Title
+*Title
 Tagline
 Grenres
 Release Date
@@ -17,7 +17,7 @@ Plot Summary
 Similar Films
 
 **TV Shows**
-Name
+*Name
 Release Date
 Genres
 Seasons
@@ -29,3 +29,16 @@ Homepage
 Noteable Actors
 Overview
 Similar Shows
+
+**Actors**
+*Name
+Gender
+Date of Birth
+Place of Birth
+Date of Death
+IMDB Page
+Popular Movies starred in
+Popular TV Shows starred in
+Biography
+Facebook, Twitter, and Instagram IDs
+
